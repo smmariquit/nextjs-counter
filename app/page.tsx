@@ -1,3 +1,5 @@
+// app/page.tsx
+
 import {supabase} from '@/app/lib/supabase';
 import Counter from '@/app/components/Counter'; 
 
